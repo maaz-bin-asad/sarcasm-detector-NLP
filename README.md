@@ -1,5 +1,5 @@
 <h1>Natural language processing sarcasm classifier</h1>
-<p>The model is built in Google colab. The dataset command is present in the ipython notebook with availability of dataset in repository as well</p>
+<p>The model is built in Google colab. The dataset command is present in the ipython notebook along with availability of dataset in repository as well.</p>
 <a href="https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection">Click here to get details about dataset</>
 <h3>Features of model</h3>
 <ul>
@@ -10,3 +10,10 @@
 </ul>
 <a href="https://projector.tensorflow.org/">Click here to go for embedding vectors 3D projection by tensorflow</a>
 <p>After the website displays, load the meta.tsv and vecs.tsv files and visualize the embedding matrices for different words.</p>
+<h2>Mathematical models embedded</h2>
+<ul>
+  <li>Activation functions</li>
+  <li>Loss functions</li>
+  <li>Vector Algebra</li>
+  <li>Calculus</li>
+  </ul>
